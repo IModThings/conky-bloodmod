@@ -25,5 +25,3 @@ Original Theme
 
 Click [here](http://www.deviantart.com/art/Conky-Seamod-v0-1-283461046) to see the original theme and screenshots. 
 Click [here](https://github.com/maxiwell/conky-seamod) for Maxiwells updated Seamod. 
-
-Donate? www.paypal.me/IModThings
